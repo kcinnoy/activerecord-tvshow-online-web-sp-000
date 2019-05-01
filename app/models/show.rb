@@ -1,2 +1,2 @@
-Class Show << ActiveRecord::Base
+Class Show < ActiveRecord::Base
 end
