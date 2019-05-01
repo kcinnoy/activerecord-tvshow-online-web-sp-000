@@ -1,5 +1,5 @@
 Class Show < ActiveRecord::Base
-  def show::highest_rating
+  def Show::highest_rating
     Song.maximum(:rating)
   end
 end
